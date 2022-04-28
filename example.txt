@@ -1,0 +1,17 @@
+html code for mr bae website.
+<!DOCTYPE html>
+<html>
+<title>Mr Bae</title>
+<center>
+<body>
+    <body style="background-color:teal">
+    <h1>The Official Mr. Bae Website</h1>
+    <h5>made in HTML and CSS</h5>
+    <p> Mr bae is a cool teacher from walters middle school very epic 😎</p>
+    <p><b>the end.</b></p>
+    <p> Below are official images of the 100% real Mr. Bae</p>
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEKSMhwobeJlA/profile-displayphoto-shrink_200_200/0/1517578799816?e=1651104000&v=beta&t=rGpopKIUSz6yucbwkLWi_eOcbJ8KN0nN5W_Udv8ycwU">
+    <img src="https://yt3.ggpht.com/ytc/AKedOLQVXMIexF8irKlKN7wuh8bPORK_-2ecJxO2oC01=s900-c-k-c0x00ffffff-no-rj"
+         width="150"
+         height="150">
+<!---this html webpage/file was created by Eli (mr bae student 2021-2022 robotics class 2nd semester. Also, Mr Bae did not teach me any of this. he does not teach real coding (he only does code.org and scratch), this was all made from prior knowledge)--!>
