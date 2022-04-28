@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/E-173/eeee/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/E-173/eeee/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+html code for mr bae website.
+<!DOCTYPE html>
+<html>
+<title>Mr Bae</title>
+<center>
+<body>
+    <body style="background-color:teal">
+    <h1>The Official Mr. Bae Website</h1>
+    <h5>made in HTML and CSS</h5>
+    <p> Mr bae is a cool teacher from walters middle school very epic 😎</p>
+    <p><b>the end.</b></p>
+    <p> Below are official images of the 100% real Mr. Bae</p>
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEKSMhwobeJlA/profile-displayphoto-shrink_200_200/0/1517578799816?e=1651104000&v=beta&t=rGpopKIUSz6yucbwkLWi_eOcbJ8KN0nN5W_Udv8ycwU">
+    <img src="https://yt3.ggpht.com/ytc/AKedOLQVXMIexF8irKlKN7wuh8bPORK_-2ecJxO2oC01=s900-c-k-c0x00ffffff-no-rj"
+         width="150"
+         height="150">
+<!---this html webpage/file was created by Eli (mr bae student 2021-2022 robotics class 2nd semester. Also, Mr Bae did not teach me any of this. he does not teach real coding (he only does code.org and scratch), this was all made from prior knowledge)--!>
